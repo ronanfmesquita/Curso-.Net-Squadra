@@ -1,0 +1,13 @@
+C:\Users\Administrador\Downloads\Lista 2\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+C:\Users\Administrador\Downloads\Lista 2\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+C:\Users\Administrador\Downloads\Lista 2\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+C:\Users\Administrador\Downloads\Lista 2\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Lista 2\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+C:\Users\Administrador\Downloads\Lista 2\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csprojAssemblyReference.cache

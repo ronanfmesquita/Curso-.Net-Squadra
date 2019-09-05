@@ -1,0 +1,7 @@
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe.config
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.pdb
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csprojAssemblyReference.cache
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.exe
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.pdb

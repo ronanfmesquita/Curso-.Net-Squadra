@@ -1,0 +1,35 @@
+C:\Users\Administrador\Documents\Introducao C#\Calculadora Financeira\Calculadora Financeira\bin\Debug\Calculadora Financeira.exe.config
+C:\Users\Administrador\Documents\Introducao C#\Calculadora Financeira\Calculadora Financeira\bin\Debug\Calculadora Financeira.exe
+C:\Users\Administrador\Documents\Introducao C#\Calculadora Financeira\Calculadora Financeira\bin\Debug\Calculadora Financeira.pdb
+C:\Users\Administrador\Documents\Introducao C#\Calculadora Financeira\Calculadora Financeira\obj\Debug\Calculadora Financeira.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Introducao C#\Calculadora Financeira\Calculadora Financeira\obj\Debug\Calculadora Financeira.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Introducao C#\Calculadora Financeira\Calculadora Financeira\obj\Debug\Calculadora Financeira.exe
+C:\Users\Administrador\Documents\Introducao C#\Calculadora Financeira\Calculadora Financeira\obj\Debug\Calculadora Financeira.pdb
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\Calculadora Financeira\bin\Debug\Calculadora Financeira.exe.config
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\Calculadora Financeira\bin\Debug\Calculadora Financeira.exe
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\Calculadora Financeira\bin\Debug\Calculadora Financeira.pdb
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\Calculadora Financeira\obj\Debug\Calculadora Financeira.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\Calculadora Financeira\obj\Debug\Calculadora Financeira.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\Calculadora Financeira\obj\Debug\Calculadora Financeira.exe
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\Calculadora Financeira\obj\Debug\Calculadora Financeira.pdb
+C:\Users\ronan.mesquita\Downloads\Lista 1\Calculadora Financeira\bin\Debug\Calculadora Financeira.exe.config
+C:\Users\ronan.mesquita\Downloads\Lista 1\Calculadora Financeira\bin\Debug\Calculadora Financeira.exe
+C:\Users\ronan.mesquita\Downloads\Lista 1\Calculadora Financeira\bin\Debug\Calculadora Financeira.pdb
+C:\Users\ronan.mesquita\Downloads\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\Downloads\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Downloads\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.exe
+C:\Users\ronan.mesquita\Downloads\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.pdb
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\Calculadora Financeira\bin\Debug\Calculadora Financeira.exe.config
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\Calculadora Financeira\bin\Debug\Calculadora Financeira.exe
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\Calculadora Financeira\bin\Debug\Calculadora Financeira.pdb
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.exe
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.pdb
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\Calculadora Financeira\bin\Debug\Calculadora Financeira.exe.config
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\Calculadora Financeira\bin\Debug\Calculadora Financeira.exe
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\Calculadora Financeira\bin\Debug\Calculadora Financeira.pdb
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.exe
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\Calculadora Financeira\obj\Debug\Calculadora Financeira.pdb

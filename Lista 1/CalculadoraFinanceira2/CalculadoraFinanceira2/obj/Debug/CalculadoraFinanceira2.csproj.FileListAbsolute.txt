@@ -1,0 +1,28 @@
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.exe.config
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.exe
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.pdb
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.exe
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.pdb
+C:\Users\ronan.mesquita\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.exe.config
+C:\Users\ronan.mesquita\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.exe
+C:\Users\ronan.mesquita\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.pdb
+C:\Users\ronan.mesquita\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.exe
+C:\Users\ronan.mesquita\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.pdb
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.exe.config
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.exe
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.pdb
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.exe
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.pdb
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.exe.config
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.exe
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\bin\Debug\CalculadoraFinanceira2.pdb
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.exe
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira2\CalculadoraFinanceira2\obj\Debug\CalculadoraFinanceira2.pdb

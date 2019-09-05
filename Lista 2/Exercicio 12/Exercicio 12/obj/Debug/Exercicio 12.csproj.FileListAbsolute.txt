@@ -1,0 +1,7 @@
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 12\Exercicio 12\bin\Debug\Exercicio 12.exe.config
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 12\Exercicio 12\bin\Debug\Exercicio 12.exe
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 12\Exercicio 12\bin\Debug\Exercicio 12.pdb
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 12\Exercicio 12\obj\Debug\Exercicio 12.csprojAssemblyReference.cache
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 12\Exercicio 12\obj\Debug\Exercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 12\Exercicio 12\obj\Debug\Exercicio 12.exe
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 12\Exercicio 12\obj\Debug\Exercicio 12.pdb

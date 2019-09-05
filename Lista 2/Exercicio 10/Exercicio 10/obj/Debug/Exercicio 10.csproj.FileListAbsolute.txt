@@ -1,0 +1,6 @@
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 10\Exercicio 10\bin\Debug\Exercicio 10.exe.config
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 10\Exercicio 10\bin\Debug\Exercicio 10.exe
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 10\Exercicio 10\bin\Debug\Exercicio 10.pdb
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 10\Exercicio 10\obj\Debug\Exercicio 10.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 10\Exercicio 10\obj\Debug\Exercicio 10.exe
+C:\Users\Administrador\Downloads\Lista 2\Exercicio 10\Exercicio 10\obj\Debug\Exercicio 10.pdb

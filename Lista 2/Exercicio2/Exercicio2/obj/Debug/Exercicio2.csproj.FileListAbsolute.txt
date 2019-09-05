@@ -1,0 +1,14 @@
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
+C:\Users\Administrador\Downloads\Lista 2\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\Administrador\Downloads\Lista 2\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\Administrador\Downloads\Lista 2\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\Administrador\Downloads\Lista 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojAssemblyReference.cache
+C:\Users\Administrador\Downloads\Lista 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Lista 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\Administrador\Downloads\Lista 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb

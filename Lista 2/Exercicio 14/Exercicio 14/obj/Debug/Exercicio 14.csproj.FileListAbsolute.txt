@@ -1,0 +1,7 @@
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio 14\Exercicio 14\bin\Debug\Exercicio 14.exe.config
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio 14\Exercicio 14\bin\Debug\Exercicio 14.exe
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio 14\Exercicio 14\bin\Debug\Exercicio 14.pdb
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio 14\Exercicio 14\obj\Debug\Exercicio 14.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio 14\Exercicio 14\obj\Debug\Exercicio 14.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio 14\Exercicio 14\obj\Debug\Exercicio 14.exe
+C:\Users\ronan.mesquita\Downloads\Lista 2\Exercicio 14\Exercicio 14\obj\Debug\Exercicio 14.pdb

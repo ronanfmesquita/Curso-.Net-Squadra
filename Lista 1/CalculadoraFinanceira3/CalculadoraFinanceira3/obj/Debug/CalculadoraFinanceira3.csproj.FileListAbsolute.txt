@@ -1,0 +1,21 @@
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira3\CalculadoraFinanceira3\bin\Debug\CalculadoraFinanceira3.exe.config
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira3\CalculadoraFinanceira3\bin\Debug\CalculadoraFinanceira3.exe
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira3\CalculadoraFinanceira3\bin\Debug\CalculadoraFinanceira3.pdb
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.exe
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.pdb
+C:\Users\ronan.mesquita\Downloads\Calculadora Financeira\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.exe
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.pdb
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\bin\Debug\CalculadoraFinanceira3.exe.config
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\bin\Debug\CalculadoraFinanceira3.exe
+C:\Users\ronan.mesquita\Documents\Downloads\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\bin\Debug\CalculadoraFinanceira3.pdb
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\bin\Debug\CalculadoraFinanceira3.exe.config
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\bin\Debug\CalculadoraFinanceira3.exe
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\bin\Debug\CalculadoraFinanceira3.pdb
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.exe
+C:\Users\Administrador\Documents\Listas de Exercicios\Lista 1\CalculadoraFinanceira3\CalculadoraFinanceira3\obj\Debug\CalculadoraFinanceira3.pdb
